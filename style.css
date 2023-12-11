@@ -1,0 +1,53 @@
+/* Reset some default styles */
+body {
+    margin: 0;
+    font-family: calibri;
+    background-color: #f4f4f4;
+  }
+  
+  .resume {
+    width: 80%;
+    margin: 30px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    margin: 5px 0;
+  }
+  
+  .about, .experience, .education {
+    margin-bottom: 30px;
+  }
+  
+  .about h2, .experience h2, .education h2 {
+    font-family: calibri;
+    padding-bottom: 3px;
+    font-size: 22px;}
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 15px;
+  }
+  
+  h3 {
+    margin: 5px 0;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  img {
+    height: 100px;
+    width: 100px;
+    display: block;
+}
